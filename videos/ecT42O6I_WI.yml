@@ -3,6 +3,9 @@
 tags:
     - web
     - javascript
+speaker:
+    name: Daniel Shiffman
+    twitter: shiffman
 title: '10.5: Working with APIs in Javascript - p5.js Tutorial'
 language: English
 recordingDate: 1446236077
